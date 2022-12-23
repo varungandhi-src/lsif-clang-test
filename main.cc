@@ -2,6 +2,10 @@ namespace {
 constexpr auto A = 1;
 }
 
+// Eh
+void donothing() {
+}
+
 
 
 
@@ -44,7 +48,7 @@ constexpr auto A = 1;
 
 
 int main(int argc, char* argv[]) {
-
+  donothing();
 
 
 
